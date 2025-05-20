@@ -1,0 +1,8 @@
+node_modules
+tsconfig.json
+src/
+test/
+src/test/
+tests/
+src/dist/
+*.ts
