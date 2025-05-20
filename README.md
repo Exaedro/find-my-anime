@@ -9,12 +9,12 @@ Paquete simple y súper fácil de utilizar para obtener datos de anime en españ
 
 ## Instalación
 ```bash
-npm install find-my-anime
+npm install exa-anime-scraper
 ```
 ## Como usarlo
 Selecciona la pagina que vas a utilizar (Predeterminado: **AnimeFenix**)
 ```js
-import FindMyAnime from 'find-my-anime'
+import FindMyAnime from 'exa-anime-scraper'
 
 const animeScraper = new FindMyAnime('animeflv')
 ```
@@ -109,12 +109,12 @@ Simple and super easy-to-use package to get anime data in Spanish
 
 ## Installation
 ```bash
-npm install find-my-anime
+npm install exa-anime-scraper
 ```
 ## How to use
 Select the website to use (default is **AnimeFenix**)
 ```js
-import FindMyAnime from 'find-my-anime'
+import FindMyAnime from 'exa-anime-scraper'
 
 const animeScraper = new FindMyAnime('animeflv')
 ```
