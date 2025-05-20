@@ -1,5 +1,5 @@
 ## English version
-- [Click here to read this in english](#findmyanime---english-readme)
+- [Click here to read this in english](#exa-anime-scraper-find-my-anime---english-readme)
 
 # exa-anime-scraper (Find My Anime)
 
